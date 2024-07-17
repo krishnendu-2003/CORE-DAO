@@ -186,7 +186,7 @@ function App() {
                 </p>
               </div>
               <p className="my-3 text-4xl font-bold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">
-                Dapp Starter
+                Dapp Smart Contract
               </p>
             </div>
           </div>
