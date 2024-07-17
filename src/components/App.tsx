@@ -194,28 +194,8 @@ function App() {
         </div>
       </div>
       <div className="mt-8 text-center">
-        <div>
-          <span className="text-mm">Fund your account:</span>
-          <a
-            target="_blank"
-            className="ml-2 text-mm  text-orange-400 hover:text-orange-600"
-            href="https://scan.test.btcs.network/faucet"
-            rel="noreferrer"
-          >
-            tCORE faucet
-          </a>
-        </div>
-        <div>
-          <span className="text-mm">How to connect</span>
-          <a
-            target="_blank"
-            className="ml-2 text-mm  text-orange-400 hover:text-orange-600"
-            href="https://docs.coredao.org/developer/develop-on-core/using-core-testnet/connect-to-core-testnet"
-            rel="noreferrer"
-          >
-            MetaMask to Core Testnet
-          </a>
-        </div>
+    
+       
       </div>
     </div>
   )
